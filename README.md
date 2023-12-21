@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris He</h1>
 <h3 align="center">Electrical & Computer Engineering Student @ The University of Texas, Austin</h3>
 
-- 📫 How to reach me **boris.h@utexas.edu**
+📫 How to reach me **boris.h@utexas.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
